@@ -1,0 +1,19 @@
+h1{
+    
+    text-decoration: dashed black 30px;
+    color:violet;
+    text-align: center;
+    }
+    h2{
+        text-align: center;
+        border-width: 10px;
+        border-style: solid;
+        border-color: yellow;
+    }
+    div{
+        text-align: center;
+    }
+    footer p label{
+        font-size: 25px ;
+    }
+    
